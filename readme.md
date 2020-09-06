@@ -1,3 +1,2 @@
-# Vanilla JavaScript App
-
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+# birdgifs.nz
+Aotearoa Bird GIFs (https://www.birdgifs.nz/) is the home GIFs of Aotearoa Birds.
